@@ -1,0 +1,12 @@
+{
+  "name": "YatraVibe — India Travel Blueprint",
+  "short_name": "YatraVibe",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#08111a",
+  "theme_color": "#ff5b35",
+  "description": "Responsive India travel booking blueprint demo.",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
